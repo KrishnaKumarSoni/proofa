@@ -1,0 +1,124 @@
+{"level":"info","message":"WhatsApp client is ready and connected.","service":"main","timestamp":"2024-11-23T18:33:49.491Z"}
+{"level":"info","message":"WhatsApp client is ready","service":"whatsapp-client","timestamp":"2024-11-23T18:33:49.494Z"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T18:35:26.712Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T18:35:26.727Z"}
+{"level":"info","message":"Phone validation result: true","phone":"919166900151","service":"phone-validator","timestamp":"2024-11-23T18:35:26.748Z"}
+{"level":"info","message":"Session created","phone":"919166900151@c.us","service":"session-manager","timestamp":"2024-11-23T18:35:26.755Z"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T18:35:39.345Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T18:35:39.349Z"}
+{"level":"info","message":"Command parsed: start","service":"command-parser","timestamp":"2024-11-23T18:35:39.357Z"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T18:35:54.601Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T18:35:54.603Z"}
+{"level":"info","message":"Unknown command received","service":"command-parser","timestamp":"2024-11-23T18:35:54.605Z"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T18:36:03.199Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T18:36:03.201Z"}
+{"level":"info","message":"Command parsed: menu","service":"command-parser","timestamp":"2024-11-23T18:36:03.201Z"}
+{"level":"info","message":"WhatsApp client is ready and connected.","service":"main","timestamp":"2024-11-23T18:47:54.669Z"}
+{"level":"info","message":"WhatsApp client is ready","service":"whatsapp-client","timestamp":"2024-11-23T18:47:54.672Z"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T18:50:45.637Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T18:50:45.650Z"}
+{"level":"info","message":"Phone validation result: true","phone":"919166900151","service":"phone-validator","timestamp":"2024-11-23T18:50:45.652Z"}
+{"level":"info","message":"Session created","phone":"919166900151@c.us","service":"session-manager","timestamp":"2024-11-23T18:50:45.653Z"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T18:51:08.710Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T18:51:08.713Z"}
+{"level":"info","message":"Unknown command received","service":"command-parser","timestamp":"2024-11-23T18:51:08.723Z"}
+{"from":"919166900151@c.us","level":"info","message":"Message processed","service":"message-handler","timestamp":"2024-11-23T18:51:08.729Z","type":"chat"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T18:51:20.634Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T18:51:20.636Z"}
+{"level":"info","message":"Unknown command received","service":"command-parser","timestamp":"2024-11-23T18:51:20.636Z"}
+{"from":"919166900151@c.us","level":"info","message":"Message processed","service":"message-handler","timestamp":"2024-11-23T18:51:20.637Z","type":"chat"}
+{"level":"info","message":"WhatsApp client is ready and connected.","service":"main","timestamp":"2024-11-23T18:52:35.777Z"}
+{"level":"info","message":"WhatsApp client is ready","service":"whatsapp-client","timestamp":"2024-11-23T18:52:35.784Z"}
+{"level":"info","message":"WhatsApp client is ready and connected.","service":"main","timestamp":"2024-11-23T18:54:58.196Z"}
+{"level":"info","message":"WhatsApp client is ready","service":"whatsapp-client","timestamp":"2024-11-23T18:54:58.203Z"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T18:55:12.086Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T18:55:12.095Z"}
+{"level":"info","message":"Phone validation result: true","phone":"919166900151","service":"phone-validator","timestamp":"2024-11-23T18:55:12.099Z"}
+{"level":"info","message":"Session created","phone":"919166900151@c.us","service":"session-manager","timestamp":"2024-11-23T18:55:12.099Z"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T18:55:28.155Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T18:55:28.157Z"}
+{"level":"info","message":"Unknown command received","service":"command-parser","timestamp":"2024-11-23T18:55:28.160Z"}
+{"from":"919166900151@c.us","level":"info","message":"Message processed","service":"message-handler","timestamp":"2024-11-23T18:55:28.160Z","type":"chat"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T18:55:54.231Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T18:55:54.232Z"}
+{"level":"info","message":"Command parsed: help","service":"command-parser","timestamp":"2024-11-23T18:55:54.233Z"}
+{"from":"919166900151@c.us","level":"info","message":"Message processed","service":"message-handler","timestamp":"2024-11-23T18:55:54.233Z","type":"chat"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T18:56:10.321Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T18:56:10.324Z"}
+{"level":"info","message":"Command parsed: start","service":"command-parser","timestamp":"2024-11-23T18:56:10.325Z"}
+{"from":"919166900151@c.us","level":"info","message":"Message processed","service":"message-handler","timestamp":"2024-11-23T18:56:10.326Z","type":"chat"}
+{"level":"info","message":"WhatsApp client is ready and connected.","service":"main","timestamp":"2024-11-23T18:57:22.020Z"}
+{"level":"info","message":"WhatsApp client is ready","service":"whatsapp-client","timestamp":"2024-11-23T18:57:22.030Z"}
+{"level":"info","message":"WhatsApp client is ready and connected.","service":"main","timestamp":"2024-11-23T18:57:27.639Z"}
+{"level":"info","message":"WhatsApp client is ready","service":"whatsapp-client","timestamp":"2024-11-23T18:57:27.643Z"}
+{"level":"info","message":"QR Code generated. Please scan with WhatsApp.","service":"main","timestamp":"2024-11-23T18:59:17.076Z"}
+{"level":"info","message":"QR Code received","service":"whatsapp-client","timestamp":"2024-11-23T18:59:17.079Z"}
+{"level":"info","message":"WhatsApp client is ready and connected.","service":"main","timestamp":"2024-11-23T18:59:47.076Z"}
+{"level":"info","message":"WhatsApp client is ready","service":"whatsapp-client","timestamp":"2024-11-23T18:59:47.085Z"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T18:59:58.566Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T18:59:58.570Z"}
+{"level":"info","message":"Phone validation result: true","phone":"919166900151","service":"phone-validator","timestamp":"2024-11-23T18:59:58.572Z"}
+{"level":"info","message":"Session created","phone":"919166900151@c.us","service":"session-manager","timestamp":"2024-11-23T18:59:58.574Z"}
+{"level":"info","message":"WhatsApp session cleared successfully","service":"reset-script","timestamp":"2024-11-23T19:01:51.054Z"}
+{"level":"info","message":"QR Code generated. Please scan with WhatsApp.","service":"main","timestamp":"2024-11-23T19:02:10.529Z"}
+{"level":"info","message":"WhatsApp client is ready","service":"whatsapp-client","timestamp":"2024-11-23T19:02:26.336Z"}
+{"level":"info","message":"WhatsApp client is ready and connected.","service":"main","timestamp":"2024-11-23T19:02:26.336Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T19:02:45.348Z"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T19:02:45.350Z"}
+{"level":"info","message":"Phone validation result: true","phone":"919166900151","service":"phone-validator","timestamp":"2024-11-23T19:02:45.351Z"}
+{"level":"info","message":"Session created","phone":"919166900151@c.us","service":"session-manager","timestamp":"2024-11-23T19:02:45.352Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T19:03:11.170Z"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T19:03:11.176Z"}
+{"level":"info","message":"Command parsed: menu","service":"command-parser","timestamp":"2024-11-23T19:03:11.182Z"}
+{"from":"919166900151@c.us","level":"info","message":"Message processed","service":"message-handler","timestamp":"2024-11-23T19:03:11.255Z","type":"chat"}
+{"level":"info","message":"WhatsApp client is ready","service":"whatsapp-client","timestamp":"2024-11-23T19:05:19.340Z"}
+{"level":"info","message":"WhatsApp client is ready and connected.","service":"main","timestamp":"2024-11-23T19:05:19.352Z"}
+{"level":"info","message":"WhatsApp client is ready","service":"whatsapp-client","timestamp":"2024-11-23T19:06:51.114Z"}
+{"level":"info","message":"WhatsApp client is ready and connected.","service":"main","timestamp":"2024-11-23T19:06:51.124Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T19:06:57.431Z"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T19:06:57.432Z"}
+{"level":"info","message":"Phone validation result: true","phone":"919166900151","service":"phone-validator","timestamp":"2024-11-23T19:06:57.433Z"}
+{"level":"info","message":"Session created","phone":"919166900151@c.us","service":"session-manager","timestamp":"2024-11-23T19:06:57.434Z"}
+{"level":"info","message":"WhatsApp client is ready","service":"whatsapp-client","timestamp":"2024-11-23T19:08:46.708Z"}
+{"level":"info","message":"WhatsApp client is ready and connected.","service":"main","timestamp":"2024-11-23T19:08:46.716Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T19:08:49.784Z"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T19:08:49.785Z"}
+{"level":"info","message":"Phone validation result: true","phone":"919166900151","service":"phone-validator","timestamp":"2024-11-23T19:08:49.786Z"}
+{"level":"info","message":"Session created","phone":"919166900151@c.us","service":"session-manager","timestamp":"2024-11-23T19:08:49.787Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T19:08:55.377Z"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T19:08:55.378Z"}
+{"level":"info","message":"Unknown command received","service":"command-parser","timestamp":"2024-11-23T19:08:55.379Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T19:08:56.714Z"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T19:08:56.716Z"}
+{"level":"info","message":"Command parsed: menu","service":"command-parser","timestamp":"2024-11-23T19:08:56.716Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T19:09:02.698Z"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T19:09:02.722Z"}
+{"level":"info","message":"Command parsed: menu","service":"command-parser","timestamp":"2024-11-23T19:09:02.727Z"}
+{"level":"info","message":"WhatsApp client is ready","service":"whatsapp-client","timestamp":"2024-11-23T19:11:02.050Z"}
+{"level":"info","message":"WhatsApp client is ready and connected.","service":"main","timestamp":"2024-11-23T19:11:02.064Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T19:11:04.268Z"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T19:11:04.271Z"}
+{"level":"info","message":"Phone validation result: true","phone":"919166900151","service":"phone-validator","timestamp":"2024-11-23T19:11:04.271Z"}
+{"level":"info","message":"Session created","phone":"919166900151@c.us","service":"session-manager","timestamp":"2024-11-23T19:11:04.271Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T19:11:31.313Z"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T19:11:31.325Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T19:11:40.709Z"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T19:11:40.715Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T19:11:44.708Z"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T19:11:44.709Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T19:11:47.176Z"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T19:11:47.177Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T19:11:49.961Z"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T19:11:49.963Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T19:11:59.023Z"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T19:11:59.025Z"}
+{"level":"info","message":"WhatsApp client is ready","service":"whatsapp-client","timestamp":"2024-11-23T19:13:11.017Z"}
+{"level":"info","message":"WhatsApp client is ready and connected.","service":"main","timestamp":"2024-11-23T19:13:11.028Z"}
+{"level":"info","message":"WhatsApp client is ready","service":"whatsapp-client","timestamp":"2024-11-23T19:14:57.587Z"}
+{"level":"info","message":"WhatsApp client is ready and connected.","service":"main","timestamp":"2024-11-23T19:14:57.600Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T19:15:00.911Z"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T19:15:00.913Z"}
+{"level":"info","message":"Phone validation result: true","phone":"919166900151","service":"phone-validator","timestamp":"2024-11-23T19:15:00.913Z"}
+{"level":"info","message":"Session created","phone":"919166900151@c.us","service":"session-manager","timestamp":"2024-11-23T19:15:00.914Z"}
+{"level":"info","message":"Message received from 919166900151@c.us","service":"whatsapp-client","timestamp":"2024-11-23T19:15:05.204Z"}
+{"level":"info","message":"Task added to queue","queueLength":1,"service":"message-queue","timestamp":"2024-11-23T19:15:05.210Z"}
